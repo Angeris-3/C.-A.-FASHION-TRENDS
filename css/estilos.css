@@ -222,7 +222,7 @@ background-color: var(--purple-light);
 /* -------------------------*/
 .separador {
 	width: 100x;
-	height: 250px;
+	height: 200px;
 	background-image: url('../img/trabajo.jfif');
 	background-position-x: center;
 	background-size: cover;

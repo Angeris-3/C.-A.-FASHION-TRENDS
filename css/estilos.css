@@ -216,3 +216,30 @@ background-color: var(--purple-light);
 	border: 2px solid var(--purple-light);
 	color: var(--purple-light);
 }
+
+/* ------------------------- */
+/* separador */
+/* -------------------------*/
+.separador {
+	width: 100x;
+	height: 250px;
+	background-image: url('../img/trabajo.jfif');
+	background-position-x: center;
+	background-size: cover;
+	background-attachment: fixed;
+	margin-bottom: 1000px;
+
+}
+
+.separador p {
+	height: 100%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 24px;
+	font-family: 'Noto Serif', serif;
+	padding: 10px;
+
+}
+

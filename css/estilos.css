@@ -18,6 +18,8 @@
 body {
 	font-size: 20px;
 	font-family: 'Open Sans', sans-serif;
+	background-color: rgb(223, 217, 217);
+
 }
 
 p {
@@ -159,6 +161,8 @@ background-color: var(--purple-light);
 	background: var(--gray-light);
 	padding: 20px;
 	margin-bottom: 60px;
+	position: relative;
+	top: -116px;
 }
 
 .productos .titulo {
@@ -225,7 +229,7 @@ background-color: var(--purple-light);
 /* -------------------------*/
 .separador {
 	width: 100x;
-	height: 200px;
+	height: 290px;
 	background-image: url('../img/fondo.jpg');
 	background-position-x: center;
 	background-size: cover;
@@ -243,7 +247,7 @@ background-color: var(--purple-light);
 	font-size: 24px;
 	font-family: 'Noto Serif', serif;
 	padding: 10px;
-
+	font-size:150%;
 }
 
 /* ------------------------- */
